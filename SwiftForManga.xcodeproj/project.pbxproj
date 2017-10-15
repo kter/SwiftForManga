@@ -22,6 +22,14 @@
 		F0BAEFEB1F91173E0073BDE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0BAEFEE1F91173E0073BDE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0BAEFF01F91173E0073BDE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0BAEFF71F9117B10073BDE9 /* dash4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash4.png; sourceTree = "<group>"; };
+		F0BAEFF81F9117B10073BDE9 /* dash3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash3.png; sourceTree = "<group>"; };
+		F0BAEFF91F9117B10073BDE9 /* dash2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash2.png; sourceTree = "<group>"; };
+		F0BAEFFA1F9117B10073BDE9 /* dash0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash0.png; sourceTree = "<group>"; };
+		F0BAEFFB1F9117B20073BDE9 /* dash5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash5.png; sourceTree = "<group>"; };
+		F0BAEFFC1F9117B20073BDE9 /* dash1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dash1.png; sourceTree = "<group>"; };
+		F0BAEFFE1F9118E10073BDE9 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		F0BAEFFF1F9118E10073BDE9 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,14 @@
 		F0BAEFE31F91173E0073BDE9 /* SwiftForManga */ = {
 			isa = PBXGroup;
 			children = (
+				F0BAEFFA1F9117B10073BDE9 /* dash0.png */,
+				F0BAEFFC1F9117B20073BDE9 /* dash1.png */,
+				F0BAEFF91F9117B10073BDE9 /* dash2.png */,
+				F0BAEFF81F9117B10073BDE9 /* dash3.png */,
+				F0BAEFF71F9117B10073BDE9 /* dash4.png */,
+				F0BAEFFB1F9117B20073BDE9 /* dash5.png */,
+				F0BAEFFE1F9118E10073BDE9 /* start.png */,
+				F0BAEFFF1F9118E10073BDE9 /* stop.png */,
 				F0BAEFE41F91173E0073BDE9 /* AppDelegate.swift */,
 				F0BAEFE61F91173E0073BDE9 /* ViewController.swift */,
 				F0BAEFE81F91173E0073BDE9 /* Main.storyboard */,
